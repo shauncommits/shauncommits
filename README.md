@@ -8,21 +8,19 @@
 
 
 
-- 🔭 I’m currently working on **AWS CDK project**
+- 🔭 I’m currently working on **AWS CDK project.**
 
-- 🌱 I’m currently learning **Angular, javascript and concluding degree**
+- 🌱 I’m currently learning **Angular, javascript and my concluding science degree.**
 
-- 👯 I’m looking to collaborate on **more big projects**
+- 👯 I’m looking to collaborate on **more big projects.**
 
-- 👨‍💻 All of my projects are available at [https://shauncommits.github.io/tutoring/](https://shauncommits.github.io/tutoring/)
+- 📝 I regularly write articles on https://www.linkedin.com/company/s-s-ino/posts/?feedView=all&viewAsMember=true
 
-- 📝 I regularly write articles on [my website](my website)
-
-- 💬 Ask me about **java, C#, python and javascript**
+- 💬 Ask me about **java, C#, python and javascript.**
 
 - 📫 How to reach me **shaunmbolompo426@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shaun-mbolompo-485101202](https://www.linkedin.com/in/shaun-mbolompo-485101202)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shaun-mbolompo-485101202/](https://www.linkedin.com/in/shaun-mbolompo-485101202)
 
 - ⚡ Fun fact **Some think I am a nerd ;)**
 
