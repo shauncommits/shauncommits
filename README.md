@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on https://www.linkedin.com/company/s-s-ino/posts/?feedView=all&viewAsMember=true
 
-- 💬 Ask me about **java, C#, python and javascript.**
+- 💬 Ask me about **java, C#, python, typescript, angular, aws services and javascript.**
 
 - 📫 How to reach me **shaunmbolompo426@gmail.com**
 
