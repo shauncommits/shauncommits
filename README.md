@@ -8,11 +8,12 @@
 
 
 
-- 🔭 I’m currently working on **AWS CDK project.**
+- 🔭 I’m currently working on **Academic projects.**
+- 🔭 Recently completed a fully functional app using **Angular Framework, DynamoDB and AWS services**.
 
-- 🌱 I’m currently learning **Angular, javascript and my concluding science degree.**
+- 🌱 I’m currently concluding my **Computer Science degree.**
 
-- 👯 I’m looking to collaborate on **more big projects.**
+- 👯 I’m looking forward to collaborate on **more bigger projects.**
 
 - 📝 I regularly write articles on https://www.linkedin.com/company/s-s-ino/posts/?feedView=all&viewAsMember=true
 
