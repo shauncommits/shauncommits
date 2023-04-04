@@ -8,16 +8,16 @@
 
 
 
-- 🔭 I’m currently working on **Academic projects.**
+- 🔭 I’m currently working on **my own project.**
 - 🔭 Recently completed a fully functional app using **Angular Framework, DynamoDB and AWS services**.
 
-- 🌱 I’m currently concluding my **Computer Science degree.**
+- 🌱 I’m concluding my **Computer Science degree** this year. 
 
 - 👯 I’m looking forward to collaborate on **more bigger projects.**
 
 - 📝 I regularly write articles on https://www.linkedin.com/company/s-s-ino/posts/?feedView=all&viewAsMember=true
 
-- 💬 Ask me about **java, C#, python, typescript, angular, aws services and javascript.**
+- 💬 Ask me about **java, C#, python, typescript, angular framework, aws services and javascript.**
 
 - 📫 How to reach me **shaunmbolompo426@gmail.com**
 
