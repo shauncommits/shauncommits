@@ -9,7 +9,8 @@
 
 
 - 🔭 I’m currently working on **my own project.**
-- 🔭 Recently completed a fully functional app using **Angular Framework, DynamoDB and AWS services**.
+- 🔭 Recently completed a **MEAN STACK web application and deployed it through Azure cloud services**.
+- 🔭 Have completed a web application using **Angular Framework, DynamoDB and AWS cloud services**.
 
 - 🌱 I’m concluding my **Computer Science degree** this year. 
 
