@@ -1,6 +1,6 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://shauncommits.io)
 <h1 align="center">Hi 👋, I'm Shaun Mbolompo</h1>
-<h3 align="center">3rd year Computer Science and Business Computing student at UCT | Stack Developer</h3>
+<h3 align="center">Software Developer at Derivco | Computer Science and Business Computing UCT Graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCNdquE8G5w-Cxy1G5Zh770LMwNlnvfNMxw&usqp=CAU"/>
 
 
