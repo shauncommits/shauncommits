@@ -12,13 +12,13 @@
 - 🔭 Recently completed a **MEAN STACK web application and deployed it through Azure cloud services**.
 - 🔭 Have completed a web application using **Angular Framework, DynamoDB and AWS cloud services**.
 
-- 🌱 I’m concluding my **Computer Science degree** this year. 
+- 🌱 Apart from work, I am working on my personal blog and side projects. 
 
 - 👯 I’m looking forward to collaborate on **more bigger projects.**
 
 - 📝 I regularly write articles on https://www.linkedin.com/company/s-s-ino/posts/?feedView=all&viewAsMember=true
 
-- 💬 Ask me about **java, C#, python, typescript, angular framework, aws services and javascript.**
+- 💬 Ask me about **java, C#, python, typescript, angular framework, azure services and microservices.**
 
 - 📫 How to reach me **shaunmbolompo426@gmail.com**
 
